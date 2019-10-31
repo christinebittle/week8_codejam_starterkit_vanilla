@@ -10,7 +10,7 @@ Greetings! This is your starterkit for your week 8 Code Jam.
 https://www.youtube.com/watch?v=iXIfw2V0RC0
 
 
-##Done Early? Time to Flex!
+## Done Early? Time to Flex!
 
 Here are some suggestions for extra steps you can take once the base project has been completed
 
